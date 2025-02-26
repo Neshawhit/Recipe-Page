@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://github.com/Neshawhit/Recipe-Page)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://neshawhit.github.io/Recipe-Page/)
 
 ## My process
 
